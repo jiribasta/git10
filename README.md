@@ -4,6 +4,6 @@
 
 ***Npýšu tadi ňakí text***
 
-> ves
-> mes
-> des 
+> ves    
+> mes  
+> des  
